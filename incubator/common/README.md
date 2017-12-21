@@ -124,8 +124,8 @@ metadata:
 spec:
   ports:
   - name: smtp
-    port: 22
-    targetPort: 22
+    port: 25
+    targetPort: 25
   - name: imaps
     port: 993
     targetPort: 993
